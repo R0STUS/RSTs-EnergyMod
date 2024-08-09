@@ -1,0 +1,12 @@
+{
+    "texture-faces": [
+        "ieb_side",
+        "ieb_side",
+        "ieb_top",
+        "ieb_bottom",
+        "ieb_side",
+        "ieb_side"
+    ],
+    "emission": [10, 2, 15],
+    "is-enabled-energy": 10
+}
