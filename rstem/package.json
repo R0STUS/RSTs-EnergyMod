@@ -3,5 +3,6 @@
     "title": "RST's Energy Mod",
     "creator": "R0STUS",
     "version": "1.0",
-    "description": "Adds energy to VoxelCore."
+    "description": "Adds energy to VoxelCore.",
+    "reqiured": ["rstr"]
 }
