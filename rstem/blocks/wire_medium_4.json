@@ -1,5 +1,7 @@
 {
     "texture": "wm_rstem_4",
     "is-enabled-energy": 4,
-    "resistance": 2.25
+    "resistance": 2.25,
+    "hidden": true,
+    "picking-item": "rstem:wire_medium.item"
 }

@@ -1,5 +1,7 @@
 {
     "texture": "repeater_on",
     "is-enabled-energy": 3,
-    "resistance": 2
+    "resistance": 2,
+    "hidden": true,
+    "picking-item": "rstem:repeater.item"
 }

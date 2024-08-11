@@ -1,0 +1,33 @@
+{
+  "blocks": [
+    "converter_10_0",
+    "wire_strong_7",
+    "wire_strong_8",
+    "converter_6_0",
+    "repeater",
+    "wire_strong_10",
+    "infinity_energy_block",
+    "converter_3_3",
+    "wire_strong_6",
+    "wire_medium_4",
+    "wire_weak",
+    "converter_6_6",
+    "repeater_3",
+    "wire_medium",
+    "wire_weak_1",
+    "wire_strong",
+    "wire_strong_9",
+    "converter_3_0",
+    "wire_medium_3",
+    "wire_weak_2",
+    "converter_10_10",
+    "wire_medium_5",
+    "lamp_0",
+    "lamp_1",
+    "blocker_1",
+    "blocker_0_0",
+    "blocker_0_3"
+  ],
+  "items": [],
+  "entities": []
+}

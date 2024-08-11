@@ -1,5 +1,7 @@
 {
     "texture": "converter_6_on",
     "is-enabled-energy": 6,
-    "resistance": 1.75
+    "resistance": 1.75,
+    "hidden": true,
+    "picking-item": "rstem:converter_6_0.item"
 }

@@ -1,5 +1,6 @@
 {
     "texture": "converter_10_off",
     "is-enabled-energy": 0,
-    "resistance": 2
+    "resistance": 2,
+    "getting-energy": 10
 }

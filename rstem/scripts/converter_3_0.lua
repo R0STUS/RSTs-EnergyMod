@@ -5,3 +5,9 @@ function on_update(x, y, z)
         block.set(x, y, z, block.index("rstem:converter_3_3"))
     end
 end
+
+function on_placed(x, y, z, playerid)
+    if (tonumber(read(block.get(x + 1, y, z), "is-enabled-energy")) > 3 or tonumber(read(block.get(x - 1, y, z), "is-enabled-energy")) > 3 or tonumber(read(block.get(x, y + 1, z), "is-enabled-energy")) > 3 or tonumber(read(block.get(x, y - 1, z), "is-enabled-energy")) > 3 or tonumber(read(block.get(x, y, z + 1), "is-enabled-energy")) > 3 or tonumber(read(block.get(x, y, z - 1), "is-enabled-energy")) > 3) then
+        block.set(x, y, z, block.index("rstem:converter_3_3"))
+    end
+end

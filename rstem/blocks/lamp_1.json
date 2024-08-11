@@ -1,0 +1,7 @@
+{
+    "texture": "lamp-1",
+    "emission": [12, 14, 15],
+    "is-enabled-energy": 1,
+    "hidden": true,
+    "picking-item": "rstem:lamp_0.item"
+}

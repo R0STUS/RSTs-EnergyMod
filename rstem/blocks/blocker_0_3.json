@@ -1,0 +1,6 @@
+{
+    "texture": "blocker-o_3",
+    "is-enabled-energy": 3,
+    "hidden": true,
+    "picking-item": "rstem:blocker_1.item"
+}
